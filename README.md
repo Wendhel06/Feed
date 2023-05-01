@@ -5,16 +5,16 @@
 </br>
 
 <h2>🔖 Descrição</h2>
-<p> Criação de um Feed de comentários, o usuário pode adicionar, remover e curtir os comentários. Nesse projeto usei o framework Vite para o desenvolvimento</p>
+<p> Criação de um Feed de comentários, o usuário pode adicionar, remover e curtir os comentários. Nesse projeto usei o framework Vite para o desenvolvimento.</p>
 </br>
 
 <h2>🚀 Tecnologias</h2>
 <ul>
-    <li><a href="https://react.dev/" target="_blank">React</a></li>
-    <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>
+    <li><a href="#" target="_blank">React</a></li>
+    <li><a href="#" target="_blank">TypeScript</a></li>
     <li><a href="#" target="_blank">CSS</a></li>
     <li><a href="#" target="_blank">HTML</a></li>
-    <li><a href="#" target="_blank">HTML</a></li>
+    <li><a href="#" target="_blank">Vite</a></li>
 </ul>
 
 <br>
